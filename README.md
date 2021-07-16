@@ -1,14 +1,16 @@
 # Hi there 👋, I am Lloyd aka The Full Stack Junkie
-  
+
 > Hardworking and Passionate developer. Love building project ranging from frontend all the way to backend
-  
+
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=LloydJanseVanRensburg&show_icons=true&theme=radical"/>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LloydJanseVanRensburg&layout=compact"/>
 </div>
 
 ## Technologies currently using
+
 ### Frontend
+
 <div>
   <img  alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img  alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -18,6 +20,7 @@
 </div>
 
 ### Backend
+
 <div>
   <img  alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
   <img  alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
@@ -26,8 +29,9 @@
   <img  alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>  
 </div>
 
-
 <br />
 
-## My Lastest YouTube Videos
+# My Lastest YouTube Videos
 
+<!-- YT_VIDEO_LIST:START -->
+<!-- YT_VIDEO_LIST:END -->
