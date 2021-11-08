@@ -35,8 +35,8 @@
 
 <!-- YT_VIDEO_LIST:START -->
 - [How To Use MySQL with NodeJS](https://www.youtube.com/watch?v=344Zv2m9TYI)
-- [MERN stack project (Advance Filtering, Error Handling, Material-UI)](https://www.youtube.com/watch?v=3t_PXFa7i8Q)
-- [How to deploy MERN applications 🚨 (Heroku and Atlas)](https://www.youtube.com/watch?v=2AIL1c-cJM0)
-- [Advanced MERN Pagination 💥(From Scratch)](https://www.youtube.com/watch?v=yY1n0sDZPtI)
+- [MERN stack project &lpar;Advance Filtering, Error Handling, Material-UI&rpar;](https://www.youtube.com/watch?v=3t_PXFa7i8Q)
+- [How to deploy MERN applications 🚨 &lpar;Heroku and Atlas&rpar;](https://www.youtube.com/watch?v=2AIL1c-cJM0)
+- [Advanced MERN Pagination 💥&lpar;From Scratch&rpar;](https://www.youtube.com/watch?v=yY1n0sDZPtI)
 - [MERN Stack Advanced Authentication Tutorial](https://www.youtube.com/watch?v=YocRq-KesCM)
 <!-- YT_VIDEO_LIST:END -->
